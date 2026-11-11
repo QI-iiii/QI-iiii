@@ -13,8 +13,7 @@
 **[Hero Chassis Controller](https://github.com/QI-iiii/hero_chassis_controller)**  
 围绕 ROS 和 Gazebo 进行机器人底盘控制的学习与实践，项目仍在完善中。
 
-**[The Missing Semester of Your CS Education](https://github.com/QI-iiii/missing-semester)**  
-复刻的计算机工具课程资源，用于学习命令行、版本控制等基础知识。原项目及贡献者的信息保留在仓库中。
+**[missing-semester](https://github.com/QI-iiii/missing-semester)**
 
 ### 🔧 我的开源工具探索
 
